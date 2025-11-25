@@ -9,27 +9,27 @@
 
 <h2>Day3</h2>
 
-[![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()   [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
+[![Repository](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-05-Repository-2afcf9f3d997806a8ecbe4a55860df77?source=copy_link)  [![VScodeSetting](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-06-VScode-Linux-2afcf9f3d99780dea1cbf5e7de208b03?source=copy_link)   [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
 
 <h2>Day4</h2>
 
-[![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()   [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
+[![Commit](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day4-07-Git-Commit-Log-2afcf9f3d99780e58e7cf4563ef4dcbe?source=copy_link)  [![GitLog](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day4-08-Git-login-2b2cf9f3d99780358f6ce496466919e4?source=copy_link)  [![LogIn](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day4-09-Git-Log-295cf9f3d9978060b591f3bc23eb97f6?source=copy_link)   
 
-<h2>Day5</h2>
+<h2>Day5</h2><p>대면</p>
 
 [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
 
 <h2>Day6</h2>
 
-[![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()   [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
+[![Compare](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day6-10-FileCompare-295cf9f3d99780cda7f7fa3bf729caf9?source=copy_link)  [![11.Rm & Restore](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day6-11-RM-Restore-2b2cf9f3d997805da059cc0cd0af2308?source=copy_link)   [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
 
 <h2>Day7</h2>
 
-[![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
+[![13,14. Version tag &Branch](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day7-13-14VersonTage-Branch-298cf9f3d9978038b501c4c7e6e6e713?source=copy_link)  [![15.Branch](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day7-15-BranchPractive-298cf9f3d99780efa196dc448c8e9911?source=copy_link)  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
 
 <h2>Day8</h2>
 
-[![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
+[![16,17,18.SoarageClone](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day8-16-17-18-StorageClone-298cf9f3d99780c5929bcfa840213cdd?source=copy_link)  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
 
 <h2>Day9</h2>
 
