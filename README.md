@@ -3,13 +3,13 @@
 <h3>GitPractice</h3>
 <hr>
 
-![git](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvpxeexqyfvf4hw3zxtbn.png)
+![git](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvpxeexqyfvf4hw3zxtbn.png width="50%" heiht="50%")
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-05-Repository-2afcf9f3d997806a8ecbe4a55860df77?source=copy_link)
 
 <h2>Day3</h2>
 
-[![Repository](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-05-Repository-2afcf9f3d997806a8ecbe4a55860df77?source=copy_link)  [![VScodeSetting](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-06-VScode-Linux-2afcf9f3d99780dea1cbf5e7de208b03?source=copy_link)   [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
+[![Repository](https://img.shields.io/badge/Repository-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-05-Repository-2afcf9f3d997806a8ecbe4a55860df77?source=copy_link)  [![VScodeSetting](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-06-VScode-Linux-2afcf9f3d99780dea1cbf5e7de208b03?source=copy_link)   [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
 
 <h2>Day4</h2>
 
