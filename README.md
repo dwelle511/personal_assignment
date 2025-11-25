@@ -7,9 +7,8 @@
 
 [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
 
-slide.addShape(pptx.shapes.LINE,      { x:14 , y:8.20, w:0, h:3.50, line:'FF0000', line_size:1});
 
-<p style="border-left: 5px solid #1A73E8; padding-left: 15px; background-color: #f8f8f8;">
-    여기에 표시하고 싶은 내용을 입력하세요. <br>
-    줄 바꿈을 해도 세로줄이 이어집니다.
-</p>
+| 헤더 1 | 헤더 2 | 헤더 3 |
+| :--- | :---: | ---: |
+| 데이터 A-1 | 데이터 B-1 | 데이터 C-1 |
+| 데이터 A-2 | 데이터 B-2 | 데이터 C-2 |
