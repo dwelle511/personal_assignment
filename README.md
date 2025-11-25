@@ -9,7 +9,7 @@
 
 slide.addShape(pptx.shapes.LINE,      { x:14 , y:8.20, w:0, h:3.50, line:'FF0000', line_size:1});
 
-<p style="border-left: 5px solid #3eaf7c; padding-left: 15px; background-color: #f8f8f8;">
+<p style="border-left: 5px solid #1A73E8; padding-left: 15px; background-color: #f8f8f8;">
     여기에 표시하고 싶은 내용을 입력하세요. <br>
     줄 바꿈을 해도 세로줄이 이어집니다.
 </p>
