@@ -17,6 +17,7 @@
 
 <h2>Day5</h2><p>대면</p>
 
+대면수업으로 연습한 내용 [친구와 연습한 리포지토리](https://github.com/dwelle511/PR-train)
 [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
 
 <h2>Day6</h2>
