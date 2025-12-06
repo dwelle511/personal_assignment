@@ -34,7 +34,7 @@
 
 <h2>Day7</h2>
 
-[![13,14. Version tag &Branch](https://img.shields.io/badge/13,14.Versiontag&Branch-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day7-13-14VersonTage-Branch-298cf9f3d9978038b501c4c7e6e6e713?source=copy_link)  [![15.Branch](https://img.shields.io/badge/15.Branch-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day7-15-BranchPractive-298cf9f3d99780efa196dc448c8e9911?source=copy_link) 
+[![13,14.Versiontag&Branch](https://img.shields.io/badge/13,14.Versiontag&Branch-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day7-13-14VersonTage-Branch-298cf9f3d9978038b501c4c7e6e6e713?source=copy_link)  [![15.Branch](https://img.shields.io/badge/15.Branch-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day7-15-BranchPractive-298cf9f3d99780efa196dc448c8e9911?source=copy_link) 
 
 <h2>Day8</h2>
 
@@ -42,6 +42,7 @@
 
 <h2>Day9</h2>
 중간고사
+
 [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]() 
 
 <h2>Day10</h2>
