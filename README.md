@@ -16,7 +16,7 @@
 
 <h2>Day3</h2>
 
-[![Repository](https://img.shields.io/badge/5.Repository-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-05-Repository-2afcf9f3d997806a8ecbe4a55860df77?source=copy_link)  [![VScodeSetting](https://img.shields.io/badge/6.vsSetting-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-06-VScode-Linux-2afcf9f3d99780dea1cbf5e7de208b03?source=copy_link)   [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
+[![Repository](https://img.shields.io/badge/5.Repository-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-05-Repository-2afcf9f3d997806a8ecbe4a55860df77?source=copy_link)  [![VScodeSetting](https://img.shields.io/badge/6.vsSetting-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-06-VScode-Linux-2afcf9f3d99780dea1cbf5e7de208b03?source=copy_link)  
 
 <h2>Day4</h2>
 
@@ -26,7 +26,6 @@
 
 대면수업으로 연습한 내용 [친구와 연습한 리포지토리](https://github.com/dwelle511/PR-train)  
 <br>
-[![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
 
 <h2>Day6</h2>
 
@@ -43,7 +42,7 @@
 <h2>Day9</h2>
 <p>중간고사</p>
 
-[![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]() 
+[![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://github.com/dwelle511/PR-train) 
 
 <h2>Day10</h2>
 
@@ -60,7 +59,7 @@
 
 <h2>Day13</h2>
 
-[![Documentation](https://img.shields.io/badge/28/VersionReset-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day13-28-VersionReset-2b2cf9f3d997801a85c7e074fa1da6f6?source=copy_link)  [![Documentation](https://img.shields.io/badge/29.VersionReset-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day13-29-VersionReset-2b2cf9f3d99780fcbefed26f65604444?source=copy_link)   [![Documentation](https://img.shields.io/badge/30.versionReset-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day13-30-VersionReset-2b2cf9f3d997805fb904e8064f7adc7e?source=copy_link)
+[![Documentation](https://img.shields.io/badge/28.VersionReset-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day13-28-VersionReset-2b2cf9f3d997801a85c7e074fa1da6f6?source=copy_link)  [![Documentation](https://img.shields.io/badge/29.VersionReset-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day13-29-VersionReset-2b2cf9f3d99780fcbefed26f65604444?source=copy_link)   [![Documentation](https://img.shields.io/badge/30.versionReset-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day13-30-VersionReset-2b2cf9f3d997805fb904e8064f7adc7e?source=copy_link)
 
 <h2>Day14</h2>
 
