@@ -24,7 +24,8 @@
 
 <h2>Day5</h2><p>대면</p>
 
-대면수업으로 연습한 내용 [친구와 연습한 리포지토리](https://github.com/dwelle511/PR-train)<br>
+대면수업으로 연습한 내용 [친구와 연습한 리포지토리](https://github.com/dwelle511/PR-train)  
+<br>
 [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
 
 <h2>Day6</h2>
@@ -33,7 +34,7 @@
 
 <h2>Day7</h2>
 
-[![13,14. Version tag &Branch](https://img.shields.io/badge/13,14.Version tag & Brancg-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day7-13-14VersonTage-Branch-298cf9f3d9978038b501c4c7e6e6e713?source=copy_link)  [![15.Branch](https://img.shields.io/badge/15.Branch-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day7-15-BranchPractive-298cf9f3d99780efa196dc448c8e9911?source=copy_link)  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]()
+[![13,14. Version tag &Branch](https://img.shields.io/badge/13,14.Versiontag&Brancg-37352f?style=flat-square&logo=notion&logoColor=white)] (https://www.notion.so/Git-day7-13-14VersonTage-Branch-298cf9f3d9978038b501c4c7e6e6e713?source=copy_link)  [![15.Branch](https://img.shields.io/badge/15.Branch-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day7-15-BranchPractive-298cf9f3d99780efa196dc448c8e9911?source=copy_link) 
 
 <h2>Day8</h2>
 
