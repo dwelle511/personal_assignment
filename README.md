@@ -41,7 +41,7 @@
 [![16,17,18.SoarageClone](https://img.shields.io/badge/16,17,18-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day8-16-17-18-StorageClone-298cf9f3d99780c5929bcfa840213cdd?source=copy_link) 
 
 <h2>Day9</h2>
-중간고사
+<p>중간고사</p>
 
 [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)]() 
 
