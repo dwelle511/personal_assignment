@@ -20,7 +20,7 @@
 
 <h2>Day4</h2>
 
-[![Commit](https://img.shields.io/badge/commit-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day4-07-Git-Commit-Log-2afcf9f3d99780e58e7cf4563ef4dcbe?source=copy_link)  [![GitLog](https://img.shields.io/badge/Gitlog-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day4-08-Git-login-2b2cf9f3d99780358f6ce496466919e4?source=copy_link)  [![LogIn](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day4-09-Git-Log-295cf9f3d9978060b591f3bc23eb97f6?source=copy_link)   
+[![Commit](https://img.shields.io/badge/commit-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day4-07-Git-Commit-Log-2afcf9f3d99780e58e7cf4563ef4dcbe?source=copy_link)  [![GitLog](https://img.shields.io/badge/Gitlog-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day4-08-Git-login-2b2cf9f3d99780358f6ce496466919e4?source=copy_link)  [![LogIn](https://img.shields.io/badge/9.GitLog-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day4-09-Git-Log-295cf9f3d9978060b591f3bc23eb97f6?source=copy_link)   
 
 <h2>Day5</h2><p>대면</p>
 
@@ -34,7 +34,7 @@
 
 <h2>Day7</h2>
 
-[![13,14. Version tag &Branch](https://img.shields.io/badge/13,14.Versiontag&Brancg-37352f?style=flat-square&logo=notion&logoColor=white)] (https://www.notion.so/Git-day7-13-14VersonTage-Branch-298cf9f3d9978038b501c4c7e6e6e713?source=copy_link)  [![15.Branch](https://img.shields.io/badge/15.Branch-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day7-15-BranchPractive-298cf9f3d99780efa196dc448c8e9911?source=copy_link) 
+[![13,14. Version tag &Branch](https://img.shields.io/badge/13,14.Versiontag&Branch-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day7-13-14VersonTage-Branch-298cf9f3d9978038b501c4c7e6e6e713?source=copy_link)  [![15.Branch](https://img.shields.io/badge/15.Branch-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day7-15-BranchPractive-298cf9f3d99780efa196dc448c8e9911?source=copy_link) 
 
 <h2>Day8</h2>
 
