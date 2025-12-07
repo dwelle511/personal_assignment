@@ -52,6 +52,7 @@
 
 
 <h2>Day11</h2>
+레포지토리 싱크 맞추는 [연습 repository](https://github.com/dwelle511/repo-sync)
 
 [![Documentation](https://img.shields.io/badge/22.BranchMerge-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day11-22-BranchMerge-2b2cf9f3d997802c9378db9ec6bb3100?source=copy_link)  [![Documentation](https://img.shields.io/badge/23.BranchMerge-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day11-23-BranchMergePractice-2b2cf9f3d9978083a3bfd0bc2f6cab52?source=copy_link)   [![Documentation](https://img.shields.io/badge/24.Clash-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day11-24-Clash-2b2cf9f3d997801ebf1df154a6d7387c?source=copy_link)
 
