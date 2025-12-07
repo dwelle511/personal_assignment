@@ -14,6 +14,8 @@
 
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()  [![Documentation](https://img.shields.io/badge/Documentation-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-05-Repository-2afcf9f3d997806a8ecbe4a55860df77?source=copy_link)
 
+<p>팀플 reposiry인데 내가 만든 다른 브랜치들 [rebase아직 못할듯](https://github.com/dwelle511/boongtol-team) </p>
+
 <h2>Day3</h2>
 
 [![Repository](https://img.shields.io/badge/5.Repository-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-05-Repository-2afcf9f3d997806a8ecbe4a55860df77?source=copy_link)  [![VScodeSetting](https://img.shields.io/badge/6.vsSetting-37352f?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Git-day3-06-VScode-Linux-2afcf9f3d99780dea1cbf5e7de208b03?source=copy_link)  
